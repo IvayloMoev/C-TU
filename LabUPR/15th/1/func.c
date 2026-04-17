@@ -1,4 +1,4 @@
-#include "head.c"
+#include "head.h"
 
 node *makeSrtLst(node *head, FILE *f)
 {
